@@ -16,3 +16,13 @@ EarthquakeAlertApp/
 ├── package.json            # NPM dependencies and scripts
 ├── README.md               # Project description
 └── yarn.lock / package-lock.json # Dependency locks
+```
+# EarthquakeAlertApp
+
+A React app that fetches and displays recent earthquakes from USGS API.
+
+## Installation
+
+```bash
+npm install
+npm run dev
